@@ -1,0 +1,9 @@
+libemlrt.lib
+libut.lib
+libmwblas.lib
+libmwmathutil.lib
+/export:mexFunction
+/export:emlrtMexFcnProperties
+/export:secondlaw4c
+/export:secondlaw4c_initialize
+/export:secondlaw4c_terminate
