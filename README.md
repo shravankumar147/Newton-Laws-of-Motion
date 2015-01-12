@@ -11,3 +11,4 @@ a:5
 t:6
 Your speed after 6 sec is 34 m/s
 Similarly for the other laws.
+Along That I have generated .mex for secondlaw. 
