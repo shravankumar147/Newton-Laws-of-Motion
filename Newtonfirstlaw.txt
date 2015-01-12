@@ -1,0 +1,3 @@
+Newton First law is given by 
+v = u + at;
+
