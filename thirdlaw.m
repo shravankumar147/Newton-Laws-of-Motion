@@ -1,5 +1,5 @@
 function [ v2 ] = thirdlaw( ~,~,~ )
-%UNTITLED4 Summary of this function goes here
+%Newton Third Law of Motion:
 %   Detailed explanation goes here
 u = input('u:');
 a = input('a:');

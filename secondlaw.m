@@ -1,5 +1,5 @@
 function [ x ] = secondlaw( ~,~,~ )
-%UNTITLED3 Summary of this function goes here
+%Newton Second Law of Motion :
 %   Detailed explanation goes here
 u = input('u:');
 a = input('a:');
